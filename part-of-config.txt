@@ -1,0 +1,4 @@
+force_turbo=1
+over_voltage=8
+arm_freq=2200
+gpu_freq=750
